@@ -1,6 +1,6 @@
 #  0day
-## Describe: zafir.andro is a framework that creates, builds and includes an apk payload for hacking Android platforms  
-## zafir.android framework. Version 0.7
+## Describe: Slay-android is a framework that creates, builds and includes an apk payload for hacking Android platforms  
+## Slay-android framework. Version 0.7
  Author: 0day [dev-labs]
  
  ## Legal Disclaimer:
@@ -8,7 +8,7 @@
       Remember that this is only for educational purposes.
       
 ## Describe:
-       zafir.android is a framework that creates, builds and includes an apk payload for hacking Android Platforms
+       Slay-android is a framework that creates, builds and includes an apk payload for hacking Android Platforms
        
 ## Screenshot:
 ! [pic1] (https://i.imgur.com/LczO636.png)

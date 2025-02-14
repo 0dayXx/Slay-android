@@ -1,14 +1,14 @@
-#  0day
-## Describe: Slay-android is a framework that creates, builds and includes an apk payload for hacking Android platforms  
+#  Slay-andr0id
+## Describe: Slay-andr0id is a framework that creates, builds and includes an apk payload for hacking Android platforms  
 ## Slay-android framework. Version 0.7
- Author: 0day [dev-labs]
+ Developer: 0day [dev-labs]
  
  ## Legal Disclaimer:
        The author assumes no responsibility for misuse of this tool,
       Remember that this is only for educational purposes.
       
 ## Describe:
-       Slay-android is a framework that creates, builds and includes an apk payload for hacking Android Platforms
+       Slay-andr0id is a framework that creates, builds and includes an apk payload for hacking Android Platforms
        
 ## Screenshot:
 ! [pic1] (https://i.imgur.com/LczO636.png)

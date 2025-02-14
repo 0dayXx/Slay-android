@@ -1,5 +1,5 @@
-#  Houssam.ch
-## Describe:        zafir.android is a framework that creates, builds and includes an apk payload for hacking Android platforms  
+#  0day
+## Describe: zafir.andro is a framework that creates, builds and includes an apk payload for hacking Android platforms  
 ## zafir.android framework. Version 0.7
  Author: Houssam Ch [dev-labs]
  

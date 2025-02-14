@@ -1,7 +1,7 @@
 #  0day
 ## Describe: zafir.andro is a framework that creates, builds and includes an apk payload for hacking Android platforms  
 ## zafir.android framework. Version 0.7
- Author: Houssam Ch [dev-labs]
+ Author: 0day [dev-labs]
  
  ## Legal Disclaimer:
        The author assumes no responsibility for misuse of this tool,
